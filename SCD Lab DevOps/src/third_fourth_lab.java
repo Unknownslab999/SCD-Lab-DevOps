@@ -9,7 +9,6 @@ public class third_fourth_lab {
 	        int d = 55;
 	        int e = 70;
 
-	        // Print the variables
 	        System.out.println("Value of a: " + a);
 	        System.out.println("Value of b: " + b);
 	        System.out.println("Value of c: " + c);
