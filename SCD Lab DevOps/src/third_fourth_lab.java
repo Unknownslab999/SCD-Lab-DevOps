@@ -8,6 +8,7 @@ public class third_fourth_lab {
 	        int c = 40;
 	        int d = 55;
 	        int e = 70;
+	        int f = 80;
 	        int g = 90;
 
 	        System.out.println("Value of a: " + a);
@@ -15,7 +16,7 @@ public class third_fourth_lab {
 	        System.out.println("Value of c: " + c);
 	        System.out.println("Value of d: " + d);
 	        System.out.println("Value of e: " + e);
+	        System.out.println("Value of f: " + f);
 	        System.out.println("Value of g: " + g);
 	}
-
 }
